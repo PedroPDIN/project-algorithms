@@ -26,6 +26,3 @@ def is_anagram(first_string, second_string):
     print(current_first_string)
 
     return current_first_string == current_second_string
-  
-if __name__ == '__main__':
-    print(is_anagram('PEDRA', 'Perda'))
